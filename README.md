@@ -3,7 +3,8 @@ User Story
 
 AS A manager at an internet retail company
 I WANT a back end for my e-commerce website that uses the latest technologies
-SO THAT my company can compete with other e-commerce companies
+SO THAT my company can compete with other e-commerce companies.
+
 Post Request
 <img width="1423" alt="image" src="https://user-images.githubusercontent.com/96856996/165221660-a38980be-4016-494c-bb5f-cca75ae93787.png">
 Get Request
